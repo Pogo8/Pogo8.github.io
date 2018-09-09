@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              POGOLOGY
+bio:                'this is bio'
+description:        "this is description"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -31,19 +31,19 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   joon_lee
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            hjlee415
+facebook:           joonlee415
+instagram:          hjlee415
+github:             Pogo8
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           고려대학교, 안암동
+phone:              010-9999-8888
+email:              hjlee415@gmail.com
 
 # Gems
 gems:
