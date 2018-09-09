@@ -1,7 +1,7 @@
 # Site
-title:              POGOLOGY
-bio:                'this is bio'
-description:        "this is description"
+title:              POGORIUM
+bio:                Pogorium Bio
+description:        Pogorium Description
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -31,7 +31,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   joon_lee
+disqus_shortname:   joonlee415
 
 # Social
 analytics-id:       "default"
@@ -41,8 +41,8 @@ instagram:          hjlee415
 github:             Pogo8
 
 # personal
-location:           고려대학교, 안암동
-phone:              010-9999-8888
+location:           대한민국, 어딘가
+phone:              010-9034-0408
 email:              hjlee415@gmail.com
 
 # Gems
