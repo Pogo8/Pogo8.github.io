@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "This is a test post!"
+title:  "Etymology - 바리깡"
 date:   2018-09-10
-excerpt: "This is a test post. I want to see what goes down."
-image: "/images/test.JPG"
+excerpt: "바리깡은 왜 바리깡이라고 불릴까?"
+image: "/images/qkflRkd.jpg"
 type : etym
 permalink: "/etym/:title/"
 ---
-
-## 바리깡은 왜 바리깡일까?
+___
 
 이발소나 미용실에서 머리 자를 때 자주 사용되는 바리깡,
 이 기계는 왜 바리깡이라고 불리는 걸까?
@@ -38,4 +37,4 @@ permalink: "/etym/:title/"
 <i>바리껑에마르</i>의 이발 도구들이 1883년경 일본에 수출 되었다고 하고,<br>
 이발 도구를 회사명으로 부르면서 현재 바리깡으로 불리고 있답니다.
 
-<b><i>[호치키스](https://etym-time.tumblr.com/post/174728538668/%ED%98%B8%EC%B9%98%ED%82%A4%EC%8A%A4)</i></b>와 비슷한 역사를 갖고 있네요 ㅎㅎ
+<b><i>[호치키스](/etym/etym-hotchkiss)</i></b>와 비슷한 역사를 갖고 있네요 ㅎㅎ
