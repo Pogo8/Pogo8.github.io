@@ -28,4 +28,4 @@ sitemap:
 ### Formspring integration
 The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
 
-
+## Added features
