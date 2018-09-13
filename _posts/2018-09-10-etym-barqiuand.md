@@ -26,7 +26,9 @@ ___
 바로 아래에 요놈 때문인것 같군요!
 
 
-<span class="image center"><img src="{{ "/images/bariquand1.jpg" | absolute_url }}" alt="" style="max-width:100%"/></span><br>
+![bariquand](/images/bariquand1.jpg)
+
+
 
 현재의 바리깡과는 비슷하면서 매우 다른 모습이네요.
 
