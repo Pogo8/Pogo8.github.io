@@ -3,7 +3,7 @@ layout: post
 title:  "[HCI] Test Post!"
 date:   2018-09-10
 excerpt: "Human-Computer Interaction Assignment 1"
-image: "/images/test2.JPG"
+image: "/images/kuhci.JPG"
 type : ku
 permalink: "/ku/:title/"
 ---
