@@ -25,7 +25,7 @@ ___
 
 바로 아래에 요놈 때문인것 같군요!
 
-<div style="width:100%">![bariquand](/images/bariquand1.jpg)</div>
+<div style="width:100%"> <img src="/images/bariquand1.jpg" width="100%"> </div>
 
 현재의 바리깡과는 비슷하면서 매우 다른 모습이네요.
 
