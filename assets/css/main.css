@@ -3594,7 +3594,8 @@
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			/* padding: 8rem 8rem 6rem 8rem ; */
+			padding:3rem 8rem 3rem 8rem
 		}
 
 			#main > .post header.major > .date {
