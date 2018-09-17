@@ -9,14 +9,30 @@ sitemap:
 ---
 ## About Pogo
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/profile.png" | absolute_url }}" alt="" /></span>
 
-There is nothing interesting to write about myself. What do I write here? Born and raised in Jordan, currently attending Korea University, Seoul, studying computer science. What else do I put. There is nothing interesting to write about myself. What do I write here? Born and raised in Jordan, currently attending Korea University, Seoul, studying computer science. What else do I put. There is nothing interesting to write about myself. What do I write here? Born and raised in Jordan, currently attending Korea University, Seoul, studying computer science. What else do I put. 
+27 year old Korean male, currently majoring in Computer Science at Korea University, Seoul. Born and raised in Jordan, he has attended international schools--both British and American Curricula. While an appreciator for the arts, he has taken interest in computer science and has been studying the field since 2012. After his honorary discharge from the Republic of Korea Army, he is currently finishing up his studies and plans to graduate in the year 2019. What is my expertise, how do I advertise myself?
 
-### Maybe write a bit about career
+### Basic Information
 <div class="box">
   <p>
-  Although studying computer science, interested in travelling the world. Enjoys meeting new people and hearing their story. Wants to expand his own story with stories around the world. Although studying computer science, interested in travelling the world. Enjoys meeting new people and hearing their story. Wants to expand his own story with stories around the world. Although studying computer science, interested in travelling the world. Enjoys meeting new people and hearing their story. Wants to expand his own story with stories around the world. 
+  <b>Birth</b><br />
+  Date of Birth: April, 1992<br />
+  Place of Birth: Amman, Jordan <br />
+  <b>Education</b><br />
+  International Community School | 1996-2002<br />
+  Whitman Academy | 2002-2006<br />
+  American Community School | 2006-2010<br />
+  Korea University | College of Information and Communication | 2012-Present<br />
+  </p>
+</div>
+### Skills and Experience
+<div class="box">
+ <p>
+  <b>Multilingual</b>
+  Date of Birth: April, 1992<br />
+  <b>Leadership</b><br />
+  <b>Other Skills</b><br />
   </p>
 </div>
 
