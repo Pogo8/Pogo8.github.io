@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[HCI] Test Post!"
+title:  "[HCI-Under] Assignment 1"
 date:   2018-09-12
 excerpt: "Human-Computer Interaction Assignment 1"
 image: "/images/kuhci.jpg"
