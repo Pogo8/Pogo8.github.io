@@ -8,13 +8,11 @@ type : ku
 permalink: "/ku/:title/"
 ---
 
-## FANTASTIC KU POST
+## Human Computer Interaction: Assignment 1
 
-Please work
+Ho Joon Lee<br />
+2012210072
 
-Ho Joon Lee 2012210072<br>
-[HCI Assignment 1](/files/hci_hw1.docx)
+Please download the assignment by clicking on the link below
 
-cool cool
-
-### BYE
+ [HCI Assignment 1](/files/[HCI-under]Assignment_1_2012210072_이호준.pdf)
