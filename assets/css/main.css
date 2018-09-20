@@ -3602,7 +3602,8 @@
 				margin-top: -2rem;
 			}
 
-			#main > .post header.major > h1, #main > .post header.major h2 {
+			/* #main > .post header.major > h1, #main > .post header.major h2 { */
+			#main > .post header.major > h1 {
 				font-size: 4rem;
 				line-height: 1.1;
 				margin: 0 0 2rem 0;
@@ -4490,3 +4491,24 @@
 		}
 
 	}
+	pre {
+		white-space: pre-wrap;       /* Since CSS 2.1 */
+		white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+		white-space: -pre-wrap;      /* Opera 4-6 */
+		white-space: -o-pre-wrap;    /* Opera 7 */
+		word-wrap: break-word;       /* Internet Explorer 5.5+ */
+	}
+
+	.column2 {
+		float: left;
+		width: 50%;
+		text-align: center;
+		font: italic 80% times;
+	}
+	.column3 {
+		float: left;
+		width: 33.3%;
+		text-align: center;
+		font: italic 80% times;
+	}
+	
