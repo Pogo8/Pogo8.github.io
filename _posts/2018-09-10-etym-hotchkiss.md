@@ -3,7 +3,7 @@ layout: post
 title:  "Etymology - 호치키스"
 date:   2018-09-10
 excerpt: "호치키스은 왜 호치키스라고 불릴까?"
-image: "/images/ghclzltm.jpg"
+image: "/images/etym/ghclzltm.jpg"
 type : etym
 permalink: "/etym/:title/"
 ---
@@ -19,7 +19,7 @@ ___
 
 아래 사진을 한 번 봐주시죠
 
-<span class="image center"><img src="{{ "/images/1898_Hotchkiss_No._1_z_OM.jpg" | absolute_url }}" alt="" style="max-width:100%"/></span><br>
+<span class="image center"><img src="{{ "/images/etym/1898_Hotchkiss_No._1_z_OM.jpg" | absolute_url }}" alt="" style="max-width:100%"/></span><br>
 
 이것이 바로 18세기에 사용되었던 스테이플러입니다!
 

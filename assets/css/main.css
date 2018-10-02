@@ -4500,15 +4500,16 @@
 	}
 
 	.column2 {
-		float: left;
+		float: center;
 		width: 50%;
 		text-align: center;
 		font: italic 80% times;
+		align-self: center;
 	}
 	.column3 {
-		float: left;
+		float: center;
 		width: 33.3%;
 		text-align: center;
 		font: italic 80% times;
+		align-self: center;
 	}
-	

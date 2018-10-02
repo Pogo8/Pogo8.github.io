@@ -3,7 +3,7 @@ layout: post
 title:  "Etymology - 프락치"
 date:   2018-09-22
 excerpt: "프락치는 왜 프락치일까?"
-image: "/images/fraktsiya.jpg"
+image: "/images/etym/fraktsiya.jpg"
 type : etym
 permalink: "/etym/:title/"
 ---

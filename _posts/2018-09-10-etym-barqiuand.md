@@ -3,7 +3,7 @@ layout: post
 title:  "Etymology - 바리깡"
 date:   2018-09-10
 excerpt: "바리깡은 왜 바리깡이라고 불릴까?"
-image: "/images/qkflRkd.jpg"
+image: "/images/etym/qkflRkd.jpg"
 type : etym
 permalink: "/etym/:title/"
 ---
@@ -25,7 +25,7 @@ ___
 
 바로 아래에 요놈 때문인것 같군요!
 
-<div style="width:100%"> <img src="/images/bariquand1.jpg" width="100%"> </div>
+<div style="width:100%"> <img src="/images/etym/bariquand1.jpg" width="100%"> </div>
 
 현재의 바리깡과는 비슷하면서 매우 다른 모습이네요.
 
