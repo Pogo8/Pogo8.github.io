@@ -266,3 +266,50 @@
 	});
 
 })(jQuery);
+
+function toggleField(hideObj,showObj){
+	hideObj.disabled=true;		
+	hideObj.style.display='none';
+	showObj.disabled=false;	
+	showObj.style.display='inline';
+	showObj.focus();
+   }
+
+function countedu(){
+	return $("#education input").length/2;
+}
+
+function countskill(){
+	return $("#skillsabs input").length/2;
+}
+
+function countexp(){
+	return $("#experience input").length/3;
+}
+
+$(document).ready(function(){
+	var i = 0;
+	$("#edumulti").click(function(){
+		i++;
+		$("#edumulti").before("<div class='row uniform' id='education'><div class='6u 12u$(xsmall)'><input type='text' placeholder='Enter Institution Name' id='eduname"+i+"'></div><div class='6u 12u$(xsmall)'><input type='text' placeholder='Enter Years Attended' id='edudate"+i+"'></div></div><br>");
+	});
+});
+
+$(document).ready(function(){
+	var i = 0;
+	$("#skillmulti").click(function(){
+		i++;
+		$("#skillmulti").before("<div class='row uniform' id='skillsabs'><div class='6u 12u$(xsmall)'><input type='text' placeholder='Enter Skill/Ability Name' id='skillname"+i+"'></div><div class='6u 12u$(xsmall)'><input type='text' placeholder='Enter Skill/Ability Details' id='skilldetail"+i+"'></div></div><br>");
+	});
+});
+
+$(document).ready(function(){
+	var i = 0;
+	$("#expmulti").click(function(){
+		i++;
+		$("#expmulti").before("<div class='row uniform' id='experience'><div class='6u 12u$(xsmall)'><input type='text' placeholder='Enter Experience Title' id='expname"+i+"'></div><div class='6u 12u$(xsmall)'><input type='text' placeholder='Enter Period of Experience' id='exptime"+i+"'></div><div class='12u$'><input type='text' name='expdetail' id='expdetail"+i+"' value='' placeholder='Enter Details of Experience' /><div></div><br>");
+	});
+});
+
+
+
