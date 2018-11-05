@@ -1712,8 +1712,8 @@
 		/* line-height: 1.5; */
 		letter-spacing: 0.075em;
 		text-transform: uppercase;
-		margin: 0 0 0 0;
-		/* margin: 0 0 1rem 0; */
+		/* margin: 0 0 0 0; */
+		margin: 0 0 1rem 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1725,21 +1725,21 @@
 	h1 {
 		font-size: 4rem;
 		line-height: 1;
-		margin: 0 0 0 0;
-		/* margin: 0 0 2rem 0; */
+		/* margin: 0 0 0 0; */
+		margin: 0 0 2rem 0;
 	}
 
 	h2 {
 		font-size: 1.75rem;
 		line-height: 1;
-		margin: 0 0 0 0;
-		/* margin: 0 0 1.5rem 0; */
+		/* margin: 0 0 0 0; */
+		margin: 0 0 1.5rem 0;
 	}
 
 	h3 {
 		font-size: 1.25rem;
-		margin: 0 0 0 0;
-		/* margin: 0 0 1.5rem 0; */
+		/* margin: 0 0 0 0; */
+		margin: 0 0 1.5rem 0;
 	}
 
 	h4 {
@@ -1769,10 +1769,10 @@
 	blockquote {
 		border-left: solid 4px;
 		font-style: italic;
-		margin: 0 0 0 0;
-		padding: 0 0 0 0;
-		/* margin: 0 0 2rem 0;
-		padding: 0.5rem 0 0.5rem 2rem;	 */
+		/* margin: 0 0 0 0;
+		padding: 0 0 0 0; */
+		margin: 0 0 2rem 0;
+		padding: 0.5rem 0 0.5rem 2rem;	
 	}
 
 	code {
@@ -1800,8 +1800,8 @@
 	hr {
 		border: 0;
 		border-bottom: solid 2px;
-		margin: 2rem 0;
-		/* margin: 3rem 0; */
+		/* margin: 2rem 0; */
+		margin: 3rem 0;
 	}
 
 		hr.major {
@@ -3606,8 +3606,8 @@
 		}
 
 		#main > .post {
-			/* padding: 8rem 8rem 6rem 8rem ; */
-			padding:3rem 8rem 3rem 8rem
+			padding: 8rem 8rem 6rem 8rem ;
+			/* padding:3rem 8rem 3rem 8rem */
 		}
 
 			#main > .post header.major > .date {
@@ -3618,8 +3618,8 @@
 			#main > .post header.major > h1 {
 				font-size: 4rem;
 				line-height: 1.1;
-				margin: 0 0 0 0;
-				/* margin: 0 0 2rem 0; */
+				/* margin: 0 0 0 0; */
+				margin: 0 0 2rem 0;
 			}
 
 			#main > .post.featured {
@@ -3629,8 +3629,8 @@
 			@media screen and (max-width: 1280px) {
 
 				#main > .post {
-					padding: 6rem 4rem 4rem 4rem ;
 					/* padding: 6rem 4rem 4rem 4rem ; */
+					padding: 6rem 4rem 4rem 4rem ;
 				}
 
 			}
@@ -3638,8 +3638,8 @@
 			@media screen and (max-width: 736px) {
 
 				#main > .post {
-					padding: 0 0 0 0 ;
-					/* padding: 4rem 2rem 2rem 2rem ; */
+					/* padding: 0 0 0 0 ; */
+					padding: 4rem 2rem 2rem 2rem ;
 				}
 
 					#main > .post header.major > .date {
@@ -3650,8 +3650,8 @@
 					#main > .post header.major > h1, #main > .post header.major h2 {
 						font-size: 2.5rem;
 						line-height: 1.2;
-						margin: 0 0 0 0;
-						/* margin: 0 0 1.5rem 0; */
+						/* margin: 0 0 0 0; */
+						margin: 0 0 1.5rem 0;
 					}
 
 			}
