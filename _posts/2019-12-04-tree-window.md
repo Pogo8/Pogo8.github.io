@@ -18,6 +18,7 @@ permalink: "/ku/:title/"
     <!-- 
      -->
      <hr>
+     not finished yettt ...please finish this soon bruh
         <canvas id="TreeGUI" width="800" height="800"></canvas>
         <!-- 
          -->
@@ -137,10 +138,10 @@ permalink: "/ku/:title/"
                         win1min.width = 30;
                         win1min.height = 30;
                     } else if (tree.name == 'window2'){
-                        win2win.x = x+340;
-                        win2win.y = y;
-                        win2win.width = 30;
-                        win2win.height = 30;
+                        win2min.x = x+340;
+                        win2min.y = y;
+                        win2min.width = 30;
+                        win2min.height = 30;
                     }
                 }else if(tree.children[i].name == 'X'){           
                     //close
@@ -210,9 +211,13 @@ permalink: "/ku/:title/"
                 alert('clicked window1 minimize button');
             }else if (isInside(mousePos,win1cls)) {
                 alert('clicked window1 close button');
-            } else if (isInside(mousePos,button2)) {
-                alert('clicked button 2');
-            }    
+            }else if (isInside(mousePos,win2win)) {
+                alert('clicked window2');
+            }else if (isInside(mousePos,win2min)) {
+                alert('clicked window2 minimize button');
+            }else if (isInside(mousePos,win2cls)) {
+                alert('clicked window2 close button');
+            }
         }, false);
         function getMousePos(canvas, event) {
             var rect = canvas.getBoundingClientRect();
