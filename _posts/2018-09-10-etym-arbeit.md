@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Etymology - 아르바이트"
+title:  "아르바이트"
 date:   2018-09-11
 excerpt: "아르바이트는 왜 아르바이트라고 불릴까?"
 image: "/images/etym/dkfmqkdlxm.jpg"

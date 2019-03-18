@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Etymology - Stapler"
+title:  "Stapler"
 date:   2018-09-10
 excerpt: "Stapler는 왜 Stapler라고 불릴까?"
 image: "/images/etym/Stapler.jpg"

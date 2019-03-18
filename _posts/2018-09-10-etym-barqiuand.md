@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Etymology - 바리깡"
+title:  "바리깡"
 date:   2018-09-10
 excerpt: "바리깡은 왜 바리깡이라고 불릴까?"
 image: "/images/etym/qkflRkd.jpg"

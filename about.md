@@ -1,53 +1,26 @@
 ---
 layout: page
-title: Pogorium About
+title: About Me
 description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
 sitemap:
     priority: 0.7
-    lastmod: 2018-09-17
+    lastmod: 2019-03-18
     changefreq: weekly
 ---
 ## About Pogo
 
-<span class="image left"><img src="{{ "/images/profile.png" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/profile.png" | absolute_url }}" alt="" /></span>
 
-27 year old Korean male, currently majoring in Computer Science at Korea University, Seoul. Born and raised in Jordan, he has attended international schools--both British and American Curricula. After his honorary discharge from the Republic of Korea Army, he is currently finishing up his studies and plans to graduate in the year 2019.
-
-### Basic Information
-<div class="box">
-  <p>
-  <b>Birth</b><br />
-  Date of Birth: April, 1992<br />
-  Place of Birth: Amman, Jordan <br />
-  <br /><b>Education</b><br />
-  International Community School | 1996-2002<br />
-  Whitman Academy | 2002-2006<br />
-  American Community School | 2006-2010<br />
-  Korea University | College of Information and Communication | 2012-Present<br />
-  </p>
+<header class="major">
+	<h2>Influenced by the world,<br/>influencing the world.</h2>
+</header>
+<br/>
+<div class = "box">
+Having been born and raised in Jordan and currently living in Korea, I can proudly say that I have experienced the world--on a small scale, ofcourse. My curiosity and interest in all cultures and their history is ever-growing. As a person who has been molded by multicultural experiences, I've become intrigued in the possibilities in bringing cultures and subcultures together. Basically, a people-person interested in YOU.
+<br/><br/>
+After years of living overseas, I felt like I had not fully understood what it meant to be a Korean. So after my secondary education in Jordan, I decided to come back to Korea for higher education--I wanted to rekindle my Korean roots. I attended Korea University as a Computer Science major. During my time there, I had the opportunity to be a part of the student government where I had the privilege to serve as the vice president and president, consecutively. Along with my military service in the Republic of Korea Army, I had the chance to know what it meant to be a leader; not only that, but further expand my understanding of Korea. I can confidently and proudly say that I am Korean.
+<br/><br/>
+With my 4 years of academic studies finished, I want to go back out to the world--whatever that may entail. I want to put my past and current experiences to be of good use. 
+<br/><br/>
+Who knows? I may be able to bring the world closer together.
 </div>
-### Skills and Experience
-<div class="box">
- <p>
-  <b>Multilingual</b><br />
-  Fluent in Korean and English<br />
-  Proficient in French<br />
-  <br /><b>Leadership</b><br />
-  President of NHS | 2010<br />
-  Vice President and President of the Student Council | 2009-2010<br />
-  Vice President and President of the Student Government | 2013-2014<br />
-  <br /><b>Other Skills</b><br />
-  Proficient at Word, PowerPoint, Excel, Photoshop, Flute, Drums<br />
-  <br /><b>Experience</b><br />
-  Teacher's Assistant at English Camp | 2012, 2017<br />
-  Head Instructor of IT Class | World Friends Korea IT Volunteers | 2013<br />
-  Personal Interpreter | Hamdan Int'l Photography Award | 2014<br />
-  Event Personnel | International Society of Blood Transfusion | 2014<br />
-  Private Tutor | 2017-Present<br />
-  </p>
-</div>
-
-<!-- <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-What I do for fun. What are my hobbies? Appreciator of music in many forms. Plays music via flute and drums. Interests in visual arts, enjoys photo editing and tinkering with videos. What I do for fun. What are my hobbies? Appreciator of music in many forms. Plays music via flute and drums. Interests in visual arts, enjoys photo editing and tinkering with videos. What I do for fun. What are my hobbies? Appreciator of music in many forms. Plays music via flute and drums. Interests in visual arts, enjoys photo editing and tinkering with videos.  -->
-

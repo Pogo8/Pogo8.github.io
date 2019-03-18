@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Etymology - 호치키스"
+title:  "호치키스"
 date:   2018-09-10
 excerpt: "호치키스은 왜 호치키스라고 불릴까?"
 image: "/images/etym/ghclzltm.jpg"

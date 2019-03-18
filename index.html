@@ -28,7 +28,7 @@ sitemap:
 				<!-- Intro -->
 					<div id="intro">
             <h1>{{site.title}}</h1>
-						<h2>Welcome to Pogo's World</h2>
+						<h3>Welcome to Pogo's World</h3>
 						<p>A personal place showcasing interests and scholarly shenanigans</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
@@ -72,7 +72,7 @@ sitemap:
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  										<h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
   									</header>
   									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
