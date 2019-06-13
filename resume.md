@@ -90,7 +90,7 @@ sitemap:
 
 #### English Camp Staff | 2017, 2018
 <ul>
-    <li>Coordinated English summer camps for elementary students
+    <li>Coordinated English summer camps for elementary students.
     </li>
     <li>Supervised students and assisted native teachers in and out of classes as a teacher’s assistant.
     </li>
@@ -105,5 +105,72 @@ sitemap:
     <li>Assisted in various administrative tasks: scheduling, checking budget details, data input, etc.
     </li>
     <li>Double-checking and making sure no mistakes were made.
+    </li>
+</ul>
+
+## Translation and Composition Experience
+#### Self-Attention Graph Pooling | Machine Learning Paper | 2019
+<ul>
+    <li>English composition and proofreading advisor.
+    </li>
+    <li>Author: <i>Korea University Data Mining and Information Systems Lab</i>.
+    </li>
+    <li>Accepted to <i>International Conference on Machine Learning 2019</i>; Paper ID: 2233.
+    </li>
+    <li>Citation: <i><a href="https://arxiv.org/abs/1904.08082">arXiv:1904.08082v3</a></i>
+    </li>
+</ul>
+
+#### Obfuscated VBA Macro Detection Using Machine Learning | Computer Security Paper | 2018
+<ul>
+    <li>English composition and proofreading advisor.
+    </li>
+    <li>Author: <i>Korea University Computer and Communication Security Lab</i>.
+    </li>
+    <li>Published by <i>Institute of Electrical and Electronics Engineers Inc</i>. 
+    </li>
+    <li>Citation: <i><a href="https://doi.org/10.1109/DSN.2018.00057">10.1109/DSN.2018.00057</a></i>
+    </li>
+</ul>
+
+#### Diagnosis of the Competitiveness of the Construction Industry and Infrastructure and Establishment of Future Development Strategy Services in Preparation for Industry 4.0 | White Paper Summary | 2018
+<ul>
+    <li>Korean to English translator.
+    </li>
+    <li>Author: <i>Korea Research Institute for Human Settlements</i>
+    </li>
+</ul>
+
+#### The Symbol of Integration of the Opposite Poles Experienced in the Process of Individuation: Mother | Academic Journal | 2017
+<ul>
+    <li>Korean to English translator.
+    </li>
+    <li>Published in <i>Journal of Symbols & Sandplay Therapy</i> Vol.8 Article no. 2.
+    </li>
+    <li>Citation: <i><a href="http://www.papersearch.net/thesis/article.asp?key=3569497">ISSN : 2234-0556</a></i>
+    </li>
+</ul>
+
+#### Sunrise | Independent Film Script | 2014
+<ul>
+    <li>Korean to English translator.
+    </li>
+    <li>First release at <a href="http://msff.or.kr/program_list/sunrise/"><i>mise en scène Short Film Festival 2015</i></a>.
+    </li>
+</ul>
+
+#### Exchange Student Study Plan and Cover Letter | Study Plan | 2014
+<ul>
+    <li>Korean to English translator.
+    </li>
+    <li>Study plan and cover letter for an exchange student program at Aalto University's Department of Media.
+    </li>
+</ul>
+
+#### Study on the Analysis of the Utilization and Level of Satisfaction on New Town Neighborhood Living Facilities: Focusing on Nonhyeon-dong, Namdong-gu, Incheon Metropolitan City | Dissertation | 2012
+<ul>
+    <li>Korean to English translator.
+    </li>
+    <li>A <a href="http://www.riss.kr/link?id=T12955170">dissertation</a> written by a Real Estate major.
     </li>
 </ul>
